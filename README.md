@@ -22,10 +22,10 @@
 Software
 For Arduino, Particle and Raspberry Pi users, the I2cKeypad library provides functions that make it easy to read the keys as they are pressed on the keypad. An included demo program shows the usage of the functions. These links give the details.
 
-[Information on using the Library](https://dcity.org/portfolio/i2c-keypad-library)
-[Github repository for the Arduino software library](https://github.com/dcityorg/i2c-keypad-library-arduino.git)
-[Github repository for the Particle software library](https://github.com/dcityorg/i2c-keypad-library-particle.git)
-[Github repository for the Raspberry Pi software library](https://github.com/dcityorg/i2c-keypad-library-raspberrypi.git)
+* [Information on using the Library](https://dcity.org/portfolio/i2c-keypad-library)
+* [Github repository for the Arduino software library](https://github.com/dcityorg/i2c-keypad-library-arduino.git)
+* [Github repository for the Particle software library](https://github.com/dcityorg/i2c-keypad-library-particle.git)
+* [Github repository for the Raspberry Pi software library](https://github.com/dcityorg/i2c-keypad-library-raspberrypi.git)
 
 **License Information**
 Open Source Hardware Design. Our License Information is [here](https://www.dcity.org/license-information/).
